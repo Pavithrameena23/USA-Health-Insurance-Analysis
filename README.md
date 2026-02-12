@@ -1,7 +1,7 @@
 🏥 USA Health Insurance Coverage & Access Analysis
 
 🚀 View Live Interactive Dashboard  <a href="https://public.tableau.com/views/USAHealthInsuranceCoverageAnalysis/USAHealthInsuranceCoverageAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">
-  <img src="https://img.shields.io/badge/View_Live_Dashboard-Logos?style=for-the-badge&logo=tableau&logoColor=white&labelColor=black&color=blue" alt="Live Dashboard">
+  <img src="https://img.shields.io/badge/View_Live_Dashboard-Logos?style=for-the-badge&logo=tableau&logoColor=white&labelColor=black&color=blue" alt="USA Health Insurance Dashboard">
 </a> "Best viewed in full-screen mode by clicking the icon at the bottom right of the Tableau window."
 
 
